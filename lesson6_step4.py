@@ -56,3 +56,6 @@ print(log)
     #time.sleep(10)
     # закрываем браузер после всех манипуляций
     #browser.quit()
+
+while True:
+    print(123)
